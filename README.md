@@ -12,15 +12,15 @@ Rrequirements
 Install OpenCV:
 
 ```console
-git clone --depth 1 https://github.com/opencv/opencv.git
-cd opencv
-mkdir build
-cd build
+$ git clone --depth 1 https://github.com/opencv/opencv.git
+$ cd opencv
+$ mkdir build
+$ cd build
 
-cmake ../ -DCMAKE_BUILD_TYPE="Release"
-make -j 2
+$ cmake ../ -DCMAKE_BUILD_TYPE="Release"
+$ make -j 2
 
-make install
+$ make install
 ```
 
 
