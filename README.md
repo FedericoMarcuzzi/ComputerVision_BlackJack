@@ -47,10 +47,12 @@ or, alternatively:
 $ make install
 $ cd dist/bin
 ```
-
 and run the generated executable
 
+
+Execution exemple
 ![execution example](https://github.com/FedericoMarcuzzi/ComputerVision_BlackJack/blob/master/execution_example.png)
+
 
 Federico Marcuzzi, 2020
 
