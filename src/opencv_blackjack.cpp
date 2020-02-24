@@ -6,6 +6,7 @@
 #include <opencv2/imgproc/imgproc.hpp>
 #include <opencv2/calib3d/calib3d.hpp>
 
+#include "opencv2/imgproc/imgproc_c.h"
 #include "include/misc.h"
 
 #include <boost/lexical_cast.hpp>
@@ -273,8 +274,7 @@ int main(int argc, char* argv[])
     cv::VideoCapture cap;
 
     if(!cap.open("test_video_1.mp4")) {
-        std::cerr << "error in the opening of input file.";
-        return -1;
+        throw std::runtime_error("error in the opening of input file.");
     }
 
     // load cards template
