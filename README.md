@@ -50,7 +50,7 @@ $ cd dist/bin
 and run the generated executable
 
 
-Execution exemple
+Execution example
 ![execution example](https://github.com/FedericoMarcuzzi/ComputerVision_BlackJack/blob/master/execution_example.png)
 
 
