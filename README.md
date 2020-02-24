@@ -1,7 +1,7 @@
 # ComputerVision_BlackJack
 Blackjack card recognition (C++ and OpenCV)
 
-Project for the *Computer Vision* [course](https://www.dsi.unive.it/~bergamasco/courses/computer_vision_2017_2018.html) of *Università Ca' Foscari Venezia*, academic year 2017/2018
+Final project for the *Computer Vision* [course](https://www.dsi.unive.it/~bergamasco/courses/computer_vision_2017_2018.html) of *Università Ca' Foscari Venezia*, academic year 2017/2018
 
 
 Rrequirements
