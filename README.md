@@ -9,7 +9,7 @@ Rrequirements
  - A C++ compiler toolchain (like gcc)
 
 
-Install OpenCV
+Install OpenCV:
 
 ```console
 git clone --depth 1 https://github.com/opencv/opencv.git
